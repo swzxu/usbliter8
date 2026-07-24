@@ -1,11 +1,11 @@
-# USBLITER8
+# usbliter8
 
 Copy of the **usbliter8** source code.
 
 ---
 
 ### Original Author
-* **Author:** [Paradigm Shift](https://ps.tc/pages/blog-usbliter8.html) - user web.archive.org
+* **Author:** [Paradigm Shift](https://web.archive.org/web/20260620053244/https://ps.tc/pages/blog-usbliter8.html)
 
 ---
 
